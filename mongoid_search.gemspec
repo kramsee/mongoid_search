@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email =["mauricio@papodenerd.net"]
   s.homepage = "http://www.papodenerd.net/mongoid-search-full-text-search-for-your-mongoid-models/"
   s.summary = "Search implementation for Mongoid ORM"
-  s.description = "Simple full text search implementation."
+  s.description = "Simple full text search implementation. Removed from Gemattack"
 
   s.required_rubygems_version = ">= 1.3.6"
 
