@@ -1,3 +1,5 @@
+The Service Gemattack was hacked. I removed in all the links to gemattack in this version
+
 Mongoid Search
 ============
 
